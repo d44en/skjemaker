@@ -1,0 +1,1 @@
+document.title = 'Kurs for ph.d.-veiledere / PhD supervisor course';
